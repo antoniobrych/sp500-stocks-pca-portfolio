@@ -40,8 +40,5 @@ This project demonstrates the potential of PCA in creating a well-performing inv
 
 - **Risk Management**: Implement risk management techniques to enhance portfolio robustness, test with other assets such as bonds and commodities.
 - **Optimization**: Explore other dimensionality reduction techniques and optimization methods.
-- **Real-time Application**: Apply the strategy in a real-time trading environment to assess its practical viability.
-
-
-- Relevant literature and resources that support the methodology and findings of this project.
+- **Real-time Application**: Apply the strategy in a real-time trading environment to assess its practical viability..
 
